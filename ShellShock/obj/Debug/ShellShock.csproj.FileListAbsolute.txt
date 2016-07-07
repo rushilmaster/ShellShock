@@ -1,0 +1,9 @@
+c:\users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\bin\Debug\ShellShock.exe.config
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\bin\Debug\ShellShock.exe
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\bin\Debug\ShellShock.pdb
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\obj\Debug\ShellShock.csprojResolveAssemblyReference.cache
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\obj\Debug\ShellShock.Form1.resources
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\obj\Debug\ShellShock.Properties.Resources.resources
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\obj\Debug\ShellShock.csproj.GenerateResource.Cache
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\obj\Debug\ShellShock.exe
+C:\Users\rmaster\documents\visual studio 2013\Projects\ShellShock\ShellShock\obj\Debug\ShellShock.pdb
