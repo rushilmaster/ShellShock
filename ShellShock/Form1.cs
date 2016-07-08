@@ -21,7 +21,7 @@ namespace ShellShock
         int enemyXCor, enemyYCor, myXCor, myYCor = 0;
         int XCorValue, YCorValue = 0;
         bool firstClick, secondClick = false;
-        string path = @"C:\Users\rmaster\Documents\Visual Studio 2013\Projects\ShellShock\ShellShock.csv";
+        string path = Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location) + "\\ShellShock.csv";
 
         protected override void OnMouseMove(System.Windows.Forms.MouseEventArgs e)
         {
